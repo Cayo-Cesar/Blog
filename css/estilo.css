@@ -8,13 +8,13 @@
 body{
     font-size: 1em;
     font-family: "Trebuchet MS", Helvetica, sans-serif;
-    background-color: #e6e6e6;
+    background-color: #ffffff;
 }
 
 /* Layout */
 
 #area-cabecalho{
-    background-color: #f7b600;
+    background-color: red;
     padding: 15px;
     text-align: center;
 }
@@ -30,7 +30,7 @@ body{
 }
 
 #area-postagens{
-    background: orange;
+    background: red;
 }
 
 #area-postagens{
@@ -76,7 +76,7 @@ a{
 }
 
 a:link, a:visited{
-    color: #f7b600;
+    color: red;
 }
 
 a:hover{
@@ -89,7 +89,7 @@ a:hover{
 }
 
 #area-cabecalho a:hover{
-    color: #f7b600;
+    color: red;
     background: white;
     text-decoration: none;
 }
@@ -98,12 +98,12 @@ a:hover{
 
 h1{
     font-size: 2.5em;
-    color: #4e4e4e;
+    color: #ffffff;
 }
 
 h2{
     font-size: 2em;
-    color: #f7b600;
+    color: red;
 }
 
 h3{
